@@ -1,0 +1,5 @@
+entrance = open("aplusbb.in")
+output = open("aplusbb.out", "w")
+a, b = map(int, entrance.readline().split())
+print(a + b**2, file=output)
+output.close()
