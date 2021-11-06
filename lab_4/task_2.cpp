@@ -9,7 +9,7 @@ private:
     struct Info
     {
         long long x;
-        Info *prev = NULL; \ указывает на след элемент
+        Info *prev = NULL; 
         Info *next = NULL;
     };
     Info *head;
