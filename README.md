@@ -1,4 +1,4 @@
-# --ITMO-Algo-1-sem
+# -ITMO-Algo-1-sem
 
 # Lab_1
 [Задания](https://github.com/vvvkks/--ITMO-Algo-1-sem/blob/6ac0bd5708b0f3471ba6638c153c536a1834f79d/lab_1/tasks.pdf)
